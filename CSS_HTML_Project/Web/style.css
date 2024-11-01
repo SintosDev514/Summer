@@ -1,0 +1,89 @@
+body{
+    margin:0;
+    background-color:rgb(250, 146, 164);
+}
+
+
+
+.BrandTitle{
+    color:white;
+    display:inline-block;
+    margin-top:0;
+    position:relative;
+    top: -15px;
+    left:10px;
+    font-family:Verdana;
+}
+.Link-Container{
+    float:right;
+    position:relative;
+    top:20px;
+}
+
+.link{
+    color:white;
+    text-decoration:none;
+    top: -15px;
+    margin:10px 17px;
+    font-family:verdana;
+    transition:0.2s;
+    
+}
+
+.Container{
+    display:inline-block;
+}
+
+.link:hover{
+    color:rgb(4, 4, 4);
+}
+
+
+nav{
+    padding:5px;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.Bimage{
+    background-image:url(../images/bc1.jpg);
+    
+}
+
+
+.Main-Con{
+    position:absolute;
+    border:solid 2px black;
+    width:100%;
+    height:750px;
+}
+
+.white{
+    text-align: center;
+    border:solid 2px black;
+    margin-top:20px;
+    height:350px;
+    bottom:0;
+    position:absolute;
+    width:100%;
+    background-color:rgb(242, 245, 248);
+}
+
+.CATB{
+    position:absolute;
+    width:100%;
+   
+    border:none;
+    background-color:none;
+    height:400px;
+}
+
+.cat{
+    margin-left:422px;
+    width:700px;
+    position:absolute;
+    bottom:0;
+}
